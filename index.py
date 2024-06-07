@@ -26,3 +26,9 @@ multiplicacion = numero1 * numero2
 print("El resultado es: ", multiplicacion)
 
 
+# Operación división (rama release)
+numero1 = float(input("Ingrese el primer número: "))
+numero2 = float(input("Ingrese el segundo número: "))
+
+division = numero1 / numero2
+print("El resultado es: ", division)
